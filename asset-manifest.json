@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/routertest/static/js/main.eb5ebb83.js",
+    "main.js": "/routertest/static/js/main.ee066ee9.js",
     "index.html": "/routertest/index.html",
-    "main.eb5ebb83.js.map": "/routertest/static/js/main.eb5ebb83.js.map"
+    "main.ee066ee9.js.map": "/routertest/static/js/main.ee066ee9.js.map"
   },
   "entrypoints": [
-    "static/js/main.eb5ebb83.js"
+    "static/js/main.ee066ee9.js"
   ]
 }
